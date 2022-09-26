@@ -1,0 +1,16 @@
+#ingore everything
+*.*
+/
+
+#unignore what we want to track
+!html/
+!*.html
+!css/
+!*.css
+!js/
+!*.js
+!images/
+!*.png
+!resources/
+!txt/
+!*.txt
